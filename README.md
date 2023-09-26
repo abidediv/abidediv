@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abidediv
 - 👀 I’m interested in frontend developer
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me abidediv@gmail.com 
 
 <!---
